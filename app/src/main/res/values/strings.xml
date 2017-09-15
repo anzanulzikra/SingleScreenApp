@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="nama_perusahaan">Radio Republik Indonesia SULTENG</string>
+    <string name="alamat">JL R.A Kartini, No 39 Palu, Sulawesi Tengah 94111</string>
+    <string name="tlp">085399478877</string>
+    <string name="email">rripalu@gmail.com</string>
+    <string name="website">rripro2paluid.radio.net</string>
+    <string name="deskripsi_perusahaan">Radio Republik Indonesia (RRI) adalah stasiun radio milik pemerintah Indonesia. RRI didirikan pada tanggal 11 September 1945. Slogan RRI adalah "Sekali di Udara, Tetap di Udara".</string>
+    <string name="day_1">Senin</string>
+    <string name="day_2">Selasa</string>
+    <string name="day_3">Rabu</string>
+    <string name="day_4">Kamis</string>
+    <string name="day_5">Jumat</string>
+    <string name="day_6">Sabtu</string>
+    <string name="day_7">Minggu</string>
+</resources>

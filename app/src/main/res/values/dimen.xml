@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="padding_seluruhnya">16dp</dimen>
+    <dimen name="banner_padding">2dp</dimen>
+</resources>
